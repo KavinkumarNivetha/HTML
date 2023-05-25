@@ -1,0 +1,11 @@
+html {
+    font-size: 22px;
+}
+
+/* body {
+    background-color: rgb(255, 255, 255);
+    color: whitesmoke;
+} */
+table, th, td {
+    border:1px solid black;
+  }
